@@ -3,7 +3,16 @@
 
 > Implementing HTTP Basic Authentication in a Spring Boot REST API
 
+<br/>
+<hr>
 
+Vídeos que mostram os projetos em execução, tanto a API pelo Postman, quanto a aplicação Web
+
+>https://youtu.be/aomlZYZGf34
+
+>https://youtu.be/AU-2jrQ3SIc
+
+<br/>
 
 Methods	Urls	Actions
 >POST	/api/tutorials					- create new Tutorial
