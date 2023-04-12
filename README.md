@@ -26,19 +26,27 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 
 <br/>
 
-> [Fonte:](https://stackoverflow.com/questions/22773260/submit-json-through-form-submit-via-jquery)
+> [Fonte:]
+
+> https://stackoverflow.com/questions/22773260/submit-json-through-form-submit-via-jquery
 
 <br/>
 
-> [Fonte:](https://stackoverflow.com/questions/12356794/capture-click-event-of-submit-button-jquery)
+> [Fonte:]
+
+> https://stackoverflow.com/questions/12356794/capture-click-event-of-submit-button-jquery
 
 <br/>
 
-> [Fonte:](https://stackoverflow.com/questions/56315080/jquery-onclick-function-to-submit-data-to-php-not-defined)
+> [Fonte:]
+
+> https://stackoverflow.com/questions/56315080/jquery-onclick-function-to-submit-data-to-php-not-defined
 
 <br/>
 
-> [Fonte:](https://www.w3schools.com/jquery/event_click.asp)
+> [Fonte:]
+
+> https://www.w3schools.com/jquery/event_click.asp
 
 <br/>
 > Formulario enviar dados para API Rest Spring ao clicar no botão, envia um json
