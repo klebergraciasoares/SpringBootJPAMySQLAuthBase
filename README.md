@@ -52,7 +52,7 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 
 <hr>
 
-# Abaixo, foram alguns sites pesquisados até chegar no exemplo final, foi feito um projeto Web para consumir a API de maneira simples, utlizando Bootstrap 5 e JQuery com Axios em uma pasta, segue o repositório do projeto Web, utilizei um servidor XAMP com PHP para as telas.
+# Abaixo, foram alguns sites pesquisados até chegar no exemplo final, foi feito um projeto Web para consumir a API de maneira simples, utlizando Bootstrap 5 e JQuery com Axios, segue o repositório do projeto Web, utilizei um servidor XAMP com PHP para as telas.
 
 >Github da API:
 >https://github.com/klebergraciasoares/SpringBootJPAMySQLAuthBase
