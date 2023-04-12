@@ -3,6 +3,36 @@
 
 > Implementing HTTP Basic Authentication in a Spring Boot REST API
 
+
+
+Methods	Urls	Actions
+>POST	/api/tutorials					- create new Tutorial
+
+>GET		/api/tutorials				- retrieve all Tutorials
+
+>GET		/api/tutorials/:id			- retrieve a Tutorial by :id
+
+>PUT		/api/tutorials/:id			- update a Tutorial by :id
+
+>DELETE	/api/tutorials/:id				- delete a Tutorial by :id
+
+>DELETE	/api/tutorials					- delete all Tutorials
+
+>GET		/api/tutorials/published	- find all published Tutorials
+
+>GET		/api/tutorials?title=
+    	[keyword]						- find all Tutorials which title contains keyword
+    	
+
+
+
+<hr>
+<br/>
+
+
+
+
+
 URL: https://springframework.guru/implementing-http-basic-authentication-in-a-spring-boot-rest-api/
 
 Em meu Blog: https://blog.amorashop.com.br/?p=478
@@ -19,6 +49,28 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 
 <hr>
 <br/>
+
+<hr>
+
+# Abaixo, foram alguns sites pequisados até chegar no exemplo final, foi feito um projeto Web para consumir a API de maneira simples, utlizando Bootstrap 5 e JQuery, segue o repositório do projeto Web, utilizei um servidor XAMP com PHP para as telas.
+
+>Github da API:
+>https://github.com/klebergraciasoares/SpringBootJPAMySQLAuthBase
+
+>Github Projeto Web - Obs. Errei o nome do repo ;(
+> https://github.com/klebergraciasoares/bootastrap5AxiosJqueryConsumerAPISpringBoot
+
+
+Vídeos no Youtube dos projetos.
+
+>https://youtu.be/AU-2jrQ3SIc
+
+
+>https://youtu.be/aomlZYZGf34
+
+
+<br/>
+<hr>
 
 
 > Fonte de dados de como fazer em jquery um onclick Submit no botao
@@ -75,11 +127,61 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 > 
 
 
+O tal do CORS
+> https://reflectoring.io/spring-cors/
+
+> https://forum.jquery.com/topic/jquery-ajax-with-authorization-headers
+
+
+
+How to load JSON data using jQuery?
+
+> https://www.tutorialspoint.com/How-to-load-JSON-data-using-jQuery#
+
+
+
+jQuery getJSON() Method
+
+> https://www.w3schools.com/jquery/ajax_getjson.asp
+
+> https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_getjson
+
+> https://www.w3schools.com/jquery/demo_ajax_json.js
+
+
+Mais um pouco jQuery AJAX getJSON() Method example isn't working for me
+
+> https://stackoverflow.com/questions/10262753/jquery-ajax-getjson-method-example-isnt-working-for-me
+
+> SpringBoot and Html: No 'Access-Control-Allow-Origin' header is present on the requested resource
+
+> https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-i
+
+
+
+Mais Bloqueio pelo CORS
+
+> https://stackoverflow.com/questions/23341765/getting-neterr-blocked-by-client-error-on-some-ajax-calls
+
+
+Spring.io - Consuming a RESTful Web Service with jQuery
+> https://spring.io/guides/gs/consuming-rest-jquery/
+
+
+Um pouquinho de AXIOS sem nunca ter visto o tal, me impressionei
+> https://www.bezkoder.com/axios-request/
+
+
+Olhando profundamento o Axios do Github
+> https://github.com/axios/axios#features
+
+O meu projeto que foi feito em cima deste do BEZKoder, obrigado pelo tuto
+> https://www.bezkoder.com/javascript-fetch/
+
 <br/>
 <br/>
 <hr>
 <br/>
-
 
 
 For more detail, please visit:
