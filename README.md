@@ -12,7 +12,7 @@ Vídeos que mostram os projetos em execução, tanto a API pelo Postman, quanto 
 
 >https://youtu.be/AU-2jrQ3SIc
 
-<br/>
+<br/> 
 
 Methods	Urls	Actions
 >POST	/api/tutorials					- create new Tutorial
