@@ -52,7 +52,7 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 
 <hr>
 
-# Abaixo, foram alguns sites pequisados até chegar no exemplo final, foi feito um projeto Web para consumir a API de maneira simples, utlizando Bootstrap 5 e JQuery, segue o repositório do projeto Web, utilizei um servidor XAMP com PHP para as telas.
+# Abaixo, foram alguns sites pesquisados até chegar no exemplo final, foi feito um projeto Web para consumir a API de maneira simples, utlizando Bootstrap 5 e JQuery com Axios em uma pasta, segue o repositório do projeto Web, utilizei um servidor XAMP com PHP para as telas.
 
 >Github da API:
 >https://github.com/klebergraciasoares/SpringBootJPAMySQLAuthBase
@@ -67,7 +67,6 @@ Vídeos no Youtube dos projetos.
 
 
 >https://youtu.be/aomlZYZGf34
-
 
 <br/>
 <hr>
@@ -123,9 +122,7 @@ Vídeos no Youtube dos projetos.
 > Basic auth + API + jQuery + CORS - https://laravel.io/forum/12-11-2014-basic-auth-api-jquery-cors
 
 > How to Enable Disable Spring Security in Spring Boot Authentication? Example Tutorial - https://www.java67.com/2022/09/how-to-enable-disable-spring-security.html
-
-> 
-
+ 
 
 O tal do CORS
 > https://reflectoring.io/spring-cors/
@@ -183,7 +180,7 @@ O meu projeto que foi feito em cima deste do BEZKoder, obrigado pelo tuto
 <hr>
 <br/>
 
-
+#O Conteúdo do site https://www.bezkoder.com/, lhe parabenizo e agradeço 
 For more detail, please visit:
 > [Spring Boot JPA + MySQL - Building Rest CRUD API example](https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/)
 
