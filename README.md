@@ -57,6 +57,9 @@ https://medium.com/thecodefountain/securing-rest-apis-with-basic-authentication-
 
 
 <hr>
+
+Em meu pc, o projeto esta em:
+D:\tools-java\workspace-springboot\spring-boot-data-jpa-mysql 
 <br/>
 
 <hr>
