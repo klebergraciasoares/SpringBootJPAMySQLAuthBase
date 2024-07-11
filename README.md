@@ -15,20 +15,41 @@ Vídeos que mostram os projetos em execução, tanto a API pelo Postman, quanto 
 <br/> 
 
 Methods	Urls	Actions
+
+http://localhost:8080/api/tutorials
+{
+    "title": "Spring Boot Tuto #99",
+    "description": "Descriptiuon for Tuto #99" 
+}
+
 >POST	/api/tutorials					- create new Tutorial
 
+
+http://localhost:8080/api/tutorials
 >GET		/api/tutorials				- retrieve all Tutorials
 
+
+http://localhost:8080/api/tutorials/36
 >GET		/api/tutorials/:id			- retrieve a Tutorial by :id
 
+http://localhost:8080/api/tutorials/36
+{
+    "title": "Spring Boot Tuto #36",
+    "description": "Descriptiuon for Tuto #36",
+    "published": true
+}
 >PUT		/api/tutorials/:id			- update a Tutorial by :id
 
+http://localhost:8080/api/tutorials/9
 >DELETE	/api/tutorials/:id				- delete a Tutorial by :id
+
 
 >DELETE	/api/tutorials					- delete all Tutorials
 
+http://localhost:8080/api/tutorials/published
 >GET		/api/tutorials/published	- find all published Tutorials
 
+http://localhost:8080/api/tutorials?title=36
 >GET		/api/tutorials?title=
     	[keyword]						- find all Tutorials which title contains keyword
     	
